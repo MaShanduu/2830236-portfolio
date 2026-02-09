@@ -1,1 +1,1 @@
-
+I learned how to build semantic HTML structures that make websites more accessible. The Git workflow practice taught me how to use branches and merge changes properly. Creating this portfolio gave me hands-on experience with HTML best practices and version control fundamentals.
